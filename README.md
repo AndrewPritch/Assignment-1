@@ -1,5 +1,5 @@
 # Assignment 1
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>Assignment 1</title> </head>
